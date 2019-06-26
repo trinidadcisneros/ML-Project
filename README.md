@@ -22,6 +22,9 @@ The features included in the starter code, and the Stellar Parameters were omitt
 This data represents the KOI start, and I assumed the starts characteristics is independent of whether an object is an exoplanet.
 As a result, these were omitted.
 
+Table information:https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html
+Data: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
+
 "rowid", "kepid", 
 "kepoi_name", "kepler_name", 
 "koi_pdisposition", "koi_score", 
